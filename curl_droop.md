@@ -30,10 +30,10 @@ What is the response to this curl command from the droopy server?
 
 The -i flag to curl causes curl to emit this response on the command line:
 
-HTTP/1.0 200 OK
-Server: BaseHTTP/0.3 Python/2.7.3
-Date: Sat, 07 Jun 2014 01:10:34 GMT
-Content-type: text/html; charset=utf-8
+HTTP/1.0 200 OK  
+Server: BaseHTTP/0.3 Python/2.7.3  
+Date: Sat, 07 Jun 2014 01:10:34 GMT  
+Content-type: text/html; charset=utf-8  
 
 
 <!doctype html>
